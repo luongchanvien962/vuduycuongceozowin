@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Vũ Duy Cường CEO ZOWIN <https://zowin.gold/vu-duy-cuong-ceo-zowin/>`_ - người đã thành lập và sáng tạo nên cổng game bài đổi thưởng ZOWIN. Với kinh nghiệm của mình Cường đã từng ngày giúp cho ZOWIN vươn lên trở thành cổng game bài lớn bậc nhất Châu Á. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 46 Nguyễn Hữu Dật, Tây Thạnh, Tân Phú, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0791832152. 
 
-Contents
---------
+Email: vuduycuongceozowin@gmail.com. 
 
-.. toctree::
+Website: https://zowin.gold/vu-duy-cuong-ceo-zowin/ 
 
-   usage
-   api
+#ceozowin, #vuduycuongceozowin, #vuduycuong
